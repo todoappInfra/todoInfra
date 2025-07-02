@@ -1,4 +1,4 @@
-# ram ram jiiiiiii
+
 
 module "rg" {
   source      = "../modules/azurerm_resource_group"
